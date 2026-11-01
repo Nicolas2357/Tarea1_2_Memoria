@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="MemoriaDinamica/MemoriaDinamica.csproj" Id="8871eee6-2239-42ad-bc29-622d692e4d27" />
+  <Project Path="MemoriaEstatica/MemoriaEstatica.csproj" />
+  <Project Path="Utilidades/Utilidades.csproj" Id="fccb9c81-33ae-4545-ad4d-4326f7126aa5" />
+</Solution>
